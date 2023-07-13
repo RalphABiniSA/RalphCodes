@@ -1,0 +1,14 @@
+Speeup Simulador_Ralph_Dissertação
+
+#nx=ny=369:
+SERIAL -
+-->CPU = 1,29
+-->GPU = 2,37
+
+#nx=ny=737:
+SERIAL - 991,978 s
+-->CPU = 1.87
+-->GPU = 4,30
+
+#nx=ny=1473:
+SERIAL - 
